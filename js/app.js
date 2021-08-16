@@ -133,7 +133,3 @@ const agregarDato = ()=>{
         }
     };
 }
-
-const p = ()=>{
-    
-}
